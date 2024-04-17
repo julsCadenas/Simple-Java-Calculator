@@ -1,0 +1,195 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\Calulator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	Calculator
+Working dir:	C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\ImageMagick-7.1.1-Q16-HDRI;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Users\Juls\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\dotnet\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Juls\AppData\Roaming\npm;C:\Users\Juls\AppData\Local\Programs\Microsoft VS Code\bin;C:\altera\13.0sp1\modelsim_ase\win32aloem;C:\Program Files\Java\jre1.8.0_51\bin
+JRE paths:	;C:\Program Files\ImageMagick-7.1.1-Q16-HDRI;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Users\Juls\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\dotnet\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Juls\AppData\Roaming\npm;C:\Users\Juls\AppData\Local\Programs\Microsoft VS Code\bin;C:\altera\13.0sp1\modelsim_ase\win32aloem;C:\Program Files\Java\jre1.8.0_51\bin
+Check launcher:	C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Razer Chroma SDK\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Razer Chroma SDK\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Razer\ChromaBroadcast\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Razer\ChromaBroadcast\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juls\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juls\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Juls\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\altera\13.0sp1\modelsim_ase\win32aloem\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe (OK)
+Version string: 1.008.000_051 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\Calulator.exe"
+Args length:	77/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\Calulator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	Calculator
+Working dir:	C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe (OK)
+Match:		1.008.000
+Runtime used:	1.008.000 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\Calulator.exe"
+Args length:	77/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\Calulator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	Calculator
+Working dir:	C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jre1.8.0_51
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe (OK)
+Version string: 1.008.000_051 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\Calulator.exe"
+Args length:	77/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\Calulator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	Calculator
+Working dir:	C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jre1.8.0_51
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe (OK)
+Version string: 1.008.000_051 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\Calulator.exe"
+Args length:	77/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\Calulator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	Calculator
+Working dir:	C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jre1.8.0_51
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe (OK)
+Version string: 1.008.000_051 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\Calulator.exe"
+Args length:	77/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\Calulator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	Calculator
+Working dir:	C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jre1.8.0_51
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe (OK)
+Version string: 1.008.000_051 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\Calulator.exe"
+Args length:	77/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\Calulator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	Calculator
+Working dir:	C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jre1.8.0_51
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe (OK)
+Version string: 1.008.000_051 / 64-Bit (OK)
+Main class:	calculator.Calculator
+Add classpath:	\Documents\NetBeansProjects\Calculator\src\calculator
+Launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\Calulator.exe;\Documents\NetBeansProjects\Calculator\src\calculator" calculator.Calculator
+Args length:	159/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\Calulator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	Calculator
+Working dir:	C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jre1.8.0_51
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jre1.8.0_51\bin\javac.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\20
+Version string: 1.020.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-20\bin\javac.exe (OK)
+Match:		1.020.000
+Runtime used:	1.020.000 (64-bit)
+Main class:	calculator.Calculator
+Add classpath:	\Documents\NetBeansProjects\Calculator\src\calculator
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Juls\Documents\NetBeansProjects\Calculator\dist\Calulator.exe;\Documents\NetBeansProjects\Calculator\src\calculator" calculator.Calculator
+Args length:	159/32768 chars
+Exit code:	0
